@@ -1,0 +1,577 @@
+﻿DATAFLOW,FREQ: Frequency,TIME_PERIOD: Time,GEO_PICT: Pacific Island Countries and territories,INDICATOR: Indicator,CURRENCY: Currency,OBS_VALUE,UNIT_MEASURE: Unit of measure,UNIT_MULT: Unit multiplier,OBS_STATUS: Observation Status,DATA_SOURCE: Data source,OBS_COMMENT: Comment
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,2065,WST_POP: Tala per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,2033,WST_POP: Tala per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,2128,WST_POP: Tala per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,2308,WST_POP: Tala per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,2481,WST_POP: Tala per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,2524,WST_POP: Tala per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,2367,WST_POP: Tala per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,2411,WST_POP: Tala per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,2560,WST_POP: Tala per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,2600,WST_POP: Tala per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,2617,WST_POP: Tala per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,2629,WST_POP: Tala per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,2808,WST_POP: Tala per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,3028,WST_POP: Tala per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,3249,WST_POP: Tala per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,2907,WST_POP: Tala per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,TO: Tonga,EARN: Gross tourism earnings,DOM: Domestic currency,25648,TOP: Pa’anga,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,TO: Tonga,EARN: Gross tourism earnings,DOM: Domestic currency,26974,TOP: Pa’anga,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,TO: Tonga,EARN: Gross tourism earnings,DOM: Domestic currency,24167,TOP: Pa’anga,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,TO: Tonga,EARN: Gross tourism earnings,DOM: Domestic currency,41567,TOP: Pa’anga,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,TO: Tonga,EARN: Gross tourism earnings,DOM: Domestic currency,57856,TOP: Pa’anga,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,TO: Tonga,EARN: Gross tourism earnings,DOM: Domestic currency,50144,TOP: Pa’anga,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,TO: Tonga,EARN: Gross tourism earnings,DOM: Domestic currency,60899,TOP: Pa’anga,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,TO: Tonga,EARN: Gross tourism earnings,DOM: Domestic currency,66455,TOP: Pa’anga,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,TO: Tonga,EARN: Gross tourism earnings,DOM: Domestic currency,75208,TOP: Pa’anga,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,TO: Tonga,EARN: Gross tourism earnings,DOM: Domestic currency,80723,TOP: Pa’anga,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,TO: Tonga,EARN: Gross tourism earnings,DOM: Domestic currency,70721,TOP: Pa’anga,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,TO: Tonga,EARN: Gross tourism earnings,DOM: Domestic currency,84169,TOP: Pa’anga,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,TO: Tonga,EARN: Gross tourism earnings,DOM: Domestic currency,108762,TOP: Pa’anga,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,TO: Tonga,EARN: Gross tourism earnings,DOM: Domestic currency,111222,TOP: Pa’anga,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,TO: Tonga,EARN: Gross tourism earnings,DOM: Domestic currency,129386,TOP: Pa’anga,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,TO: Tonga,EARN: Gross tourism earnings,DOM: Domestic currency,108090,TOP: Pa’anga,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,,NZD_POP: New Zealand Dollar per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,482,NZD_POP: New Zealand Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,638,NZD_POP: New Zealand Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,594,NZD_POP: New Zealand Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,582,NZD_POP: New Zealand Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,473,NZD_POP: New Zealand Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,580,NZD_POP: New Zealand Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,669,NZD_POP: New Zealand Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1050,NZD_POP: New Zealand Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,750,NZD_POP: New Zealand Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,798,NZD_POP: New Zealand Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,812,NZD_POP: New Zealand Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,697,NZD_POP: New Zealand Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,841,NZD_POP: New Zealand Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,978,NZD_POP: New Zealand Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,,NZD_POP: New Zealand Dollar per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,MH: Marshall Islands,EARN: Gross tourism earnings,DOM: Domestic currency,5424,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,MH: Marshall Islands,EARN: Gross tourism earnings,DOM: Domestic currency,5348,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,MH: Marshall Islands,EARN: Gross tourism earnings,DOM: Domestic currency,5061,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,MH: Marshall Islands,EARN: Gross tourism earnings,DOM: Domestic currency,5080,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,MH: Marshall Islands,EARN: Gross tourism earnings,DOM: Domestic currency,5334,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,MH: Marshall Islands,EARN: Gross tourism earnings,DOM: Domestic currency,6047,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,MH: Marshall Islands,EARN: Gross tourism earnings,DOM: Domestic currency,6446,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,MH: Marshall Islands,EARN: Gross tourism earnings,DOM: Domestic currency,6591,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,MH: Marshall Islands,EARN: Gross tourism earnings,DOM: Domestic currency,7122,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,MH: Marshall Islands,EARN: Gross tourism earnings,DOM: Domestic currency,7846,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,MH: Marshall Islands,EARN: Gross tourism earnings,DOM: Domestic currency,7715,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,MH: Marshall Islands,EARN: Gross tourism earnings,DOM: Domestic currency,7655,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,MH: Marshall Islands,EARN: Gross tourism earnings,DOM: Domestic currency,8542,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,MH: Marshall Islands,EARN: Gross tourism earnings,DOM: Domestic currency,9999,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,MH: Marshall Islands,EARN: Gross tourism earnings,DOM: Domestic currency,10109,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,MH: Marshall Islands,EARN: Gross tourism earnings,DOM: Domestic currency,5149,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,USD: US Dollar,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,USD: US Dollar,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,USD: US Dollar,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,USD: US Dollar,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,USD: US Dollar,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,USD: US Dollar,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,USD: US Dollar,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,USD: US Dollar,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,USD: US Dollar,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,USD: US Dollar,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,USD: US Dollar,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,USD: US Dollar,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,USD: US Dollar,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,USD: US Dollar,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,USD: US Dollar,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,USD: US Dollar,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,19,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,20,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,15,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,16,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,19,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,19,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,17,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,19,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,18,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,19,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,18,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,18,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,21,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,24,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,25,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,3,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,239,USD_POP: USD per person,,,National authorities,Converted 0.5147 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,230,USD_POP: USD per person,,,National authorities,Converted 0.4936 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,230,USD_POP: USD per person,,,National authorities,Converted 0.5074 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,320,USD_POP: USD per person,,,National authorities,Converted 0.5148 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,381,USD_POP: USD per person,,,National authorities,Converted 0.4915 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,405,USD_POP: USD per person,,,National authorities,Converted 0.5247 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,515,USD_POP: USD per person,,,National authorities,Converted 0.5784 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,675,USD_POP: USD per person,,,National authorities,Converted 0.5816 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,711,USD_POP: USD per person,,,National authorities,Converted 0.5638 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,664,USD_POP: USD per person,,,National authorities,Converted 0.5415 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,463,USD_POP: USD per person,,,National authorities,Converted 0.4749 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,438,USD_POP: USD per person,,,National authorities,Converted 0.4513 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,569,USD_POP: USD per person,,,National authorities,Converted 0.4533 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,643,USD_POP: USD per person,,,National authorities,Converted 0.4471 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,601,USD_POP: USD per person,,,National authorities,Converted 0.4368 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,764,USD_POP: USD per person,,,National authorities,Converted 0.4349 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,19,PERCENT: percent,,,National authorities,Converted 0.369 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,20,PERCENT: percent,,,National authorities,Converted 0.3598 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,15,PERCENT: percent,,,National authorities,Converted 0.3822 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,16,PERCENT: percent,,,National authorities,Converted 0.3782 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,19,PERCENT: percent,,,National authorities,Converted 0.3662 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,19,PERCENT: percent,,,National authorities,Converted 0.4025 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,17,PERCENT: percent,,,National authorities,Converted 0.4315 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,19,PERCENT: percent,,,National authorities,Converted 0.4362 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,18,PERCENT: percent,,,National authorities,Converted 0.4327 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,19,PERCENT: percent,,,National authorities,Converted 0.4289 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,18,PERCENT: percent,,,National authorities,Converted 0.3905 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,18,PERCENT: percent,,,National authorities,Converted 0.3899 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,21,PERCENT: percent,,,National authorities,Converted 0.3915 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,24,PERCENT: percent,,,National authorities,Converted 0.3865 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,25,PERCENT: percent,,,National authorities,Converted 0.3775 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,WS: Samoa,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,3,PERCENT: percent,,,National authorities,Converted 0.3752 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,464,TOP_POP: Pa’anga per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,466,TOP_POP: Pa’anga per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,454,TOP_POP: Pa’anga per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,621,TOP_POP: Pa’anga per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,775,TOP_POP: Pa’anga per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,771,TOP_POP: Pa’anga per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,891,TOP_POP: Pa’anga per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1161,TOP_POP: Pa’anga per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1261,TOP_POP: Pa’anga per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1227,TOP_POP: Pa’anga per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,975,TOP_POP: Pa’anga per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,971,TOP_POP: Pa’anga per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1256,TOP_POP: Pa’anga per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1439,TOP_POP: Pa’anga per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1377,TOP_POP: Pa’anga per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,TO: Tonga,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1756,TOP_POP: Pa’anga per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,19,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,18,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,17,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,19,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,20,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,24,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,22,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,22,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,21,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,16,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,17,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,18,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,17,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,17,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,17,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,3,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,DOM: Domestic currency,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,DOM: Domestic currency,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,DOM: Domestic currency,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,DOM: Domestic currency,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,DOM: Domestic currency,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,DOM: Domestic currency,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,DOM: Domestic currency,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,DOM: Domestic currency,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,DOM: Domestic currency,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,DOM: Domestic currency,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,DOM: Domestic currency,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,DOM: Domestic currency,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,DOM: Domestic currency,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,DOM: Domestic currency,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,DOM: Domestic currency,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,FM: Micronesia (Federated States of),EARN: Gross tourism earnings,DOM: Domestic currency,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,5,PERCENT: percent,,,National authorities,Converted 0.5147 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,5,PERCENT: percent,,,National authorities,Converted 0.4936 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,4,PERCENT: percent,,,National authorities,Converted 0.5074 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,6,PERCENT: percent,,,National authorities,Converted 0.5148 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,9,PERCENT: percent,,,National authorities,Converted 0.4915 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,7,PERCENT: percent,,,National authorities,Converted 0.5247 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,8,PERCENT: percent,,,National authorities,Converted 0.5784 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,8,PERCENT: percent,,,National authorities,Converted 0.5816 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,10,PERCENT: percent,,,National authorities,Converted 0.5638 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,10,PERCENT: percent,,,National authorities,Converted 0.5415 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,8,PERCENT: percent,,,National authorities,Converted 0.4749 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,9,PERCENT: percent,,,National authorities,Converted 0.4513 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,11,PERCENT: percent,,,National authorities,Converted 0.4533 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,10,PERCENT: percent,,,National authorities,Converted 0.4471 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,11,PERCENT: percent,,,National authorities,Converted 0.4368 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,10,PERCENT: percent,,,National authorities,Converted 0.4349 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,WS: Samoa,EARN: Gross tourism earnings,DOM: Domestic currency,210186,WST: Tala,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,WS: Samoa,EARN: Gross tourism earnings,DOM: Domestic currency,235593,WST: Tala,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,WS: Samoa,EARN: Gross tourism earnings,DOM: Domestic currency,260430,WST: Tala,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,WS: Samoa,EARN: Gross tourism earnings,DOM: Domestic currency,282023,WST: Tala,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,WS: Samoa,EARN: Gross tourism earnings,DOM: Domestic currency,320864,WST: Tala,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,WS: Samoa,EARN: Gross tourism earnings,DOM: Domestic currency,326922,WST: Tala,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,WS: Samoa,EARN: Gross tourism earnings,DOM: Domestic currency,302091,WST: Tala,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,WS: Samoa,EARN: Gross tourism earnings,DOM: Domestic currency,324691,WST: Tala,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,WS: Samoa,EARN: Gross tourism earnings,DOM: Domestic currency,319213,WST: Tala,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,WS: Samoa,EARN: Gross tourism earnings,DOM: Domestic currency,342715,WST: Tala,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,WS: Samoa,EARN: Gross tourism earnings,DOM: Domestic currency,363847,WST: Tala,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,WS: Samoa,EARN: Gross tourism earnings,DOM: Domestic currency,384099,WST: Tala,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,WS: Samoa,EARN: Gross tourism earnings,DOM: Domestic currency,442376,WST: Tala,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,WS: Samoa,EARN: Gross tourism earnings,DOM: Domestic currency,522275,WST: Tala,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,WS: Samoa,EARN: Gross tourism earnings,DOM: Domestic currency,547641,WST: Tala,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,WS: Samoa,EARN: Gross tourism earnings,DOM: Domestic currency,62998,WST: Tala,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,762,USD_POP: USD per person,,,National authorities,Converted 0.369 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,731,USD_POP: USD per person,,,National authorities,Converted 0.3598 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,813,USD_POP: USD per person,,,National authorities,Converted 0.3822 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,873,USD_POP: USD per person,,,National authorities,Converted 0.3782 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,909,USD_POP: USD per person,,,National authorities,Converted 0.3662 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,1016,USD_POP: USD per person,,,National authorities,Converted 0.4025 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,1022,USD_POP: USD per person,,,National authorities,Converted 0.4315 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,1051,USD_POP: USD per person,,,National authorities,Converted 0.4362 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,1108,USD_POP: USD per person,,,National authorities,Converted 0.4327 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,1115,USD_POP: USD per person,,,National authorities,Converted 0.4289 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,1022,USD_POP: USD per person,,,National authorities,Converted 0.3905 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,1025,USD_POP: USD per person,,,National authorities,Converted 0.3899 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,1100,USD_POP: USD per person,,,National authorities,Converted 0.3915 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,1170,USD_POP: USD per person,,,National authorities,Converted 0.3865 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,1226,USD_POP: USD per person,,,National authorities,Converted 0.3775 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,WS: Samoa,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,1091,USD_POP: USD per person,,,National authorities,Converted 0.3752 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,FM: Micronesia (Federated States of),EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,TO: Tonga,EARN: Gross tourism earnings,USD: US Dollar,13201,USD: USD,3: thousands,,National authorities,Converted 0.5147 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,TO: Tonga,EARN: Gross tourism earnings,USD: US Dollar,13314,USD: USD,3: thousands,,National authorities,Converted 0.4936 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,TO: Tonga,EARN: Gross tourism earnings,USD: US Dollar,12262,USD: USD,3: thousands,,National authorities,Converted 0.5074 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,TO: Tonga,EARN: Gross tourism earnings,USD: US Dollar,21399,USD: USD,3: thousands,,National authorities,Converted 0.5148 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,TO: Tonga,EARN: Gross tourism earnings,USD: US Dollar,28436,USD: USD,3: thousands,,National authorities,Converted 0.4915 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,TO: Tonga,EARN: Gross tourism earnings,USD: US Dollar,26311,USD: USD,3: thousands,,National authorities,Converted 0.5247 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,TO: Tonga,EARN: Gross tourism earnings,USD: US Dollar,35224,USD: USD,3: thousands,,National authorities,Converted 0.5784 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,TO: Tonga,EARN: Gross tourism earnings,USD: US Dollar,38650,USD: USD,3: thousands,,National authorities,Converted 0.5816 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,TO: Tonga,EARN: Gross tourism earnings,USD: US Dollar,42402,USD: USD,3: thousands,,National authorities,Converted 0.5638 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,TO: Tonga,EARN: Gross tourism earnings,USD: US Dollar,43712,USD: USD,3: thousands,,National authorities,Converted 0.5415 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,TO: Tonga,EARN: Gross tourism earnings,USD: US Dollar,33585,USD: USD,3: thousands,,National authorities,Converted 0.4749 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,TO: Tonga,EARN: Gross tourism earnings,USD: US Dollar,37985,USD: USD,3: thousands,,National authorities,Converted 0.4513 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,TO: Tonga,EARN: Gross tourism earnings,USD: US Dollar,49302,USD: USD,3: thousands,,National authorities,Converted 0.4533 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,TO: Tonga,EARN: Gross tourism earnings,USD: US Dollar,49727,USD: USD,3: thousands,,National authorities,Converted 0.4471 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,TO: Tonga,EARN: Gross tourism earnings,USD: US Dollar,56516,USD: USD,3: thousands,,National authorities,Converted 0.4368 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,TO: Tonga,EARN: Gross tourism earnings,USD: US Dollar,47008,USD: USD,3: thousands,,National authorities,Converted 0.4349 TOP/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,312,USD_POP: USD per person,,,National authorities,Converted 0.6485 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,469,USD_POP: USD per person,,,National authorities,Converted 0.7349 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,417,USD_POP: USD per person,,,National authorities,Converted 0.7029 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,364,USD_POP: USD per person,,,National authorities,Converted 0.6247 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,341,USD_POP: USD per person,,,National authorities,Converted 0.7205 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,458,USD_POP: USD per person,,,National authorities,Converted 0.79 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,542,USD_POP: USD per person,,,National authorities,Converted 0.8102 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,861,USD_POP: USD per person,,,National authorities,Converted 0.8201 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,623,USD_POP: USD per person,,,National authorities,Converted 0.8296 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,556,USD_POP: USD per person,,,National authorities,Converted 0.6974 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,565,USD_POP: USD per person,,,National authorities,Converted 0.6961 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,495,USD_POP: USD per person,,,National authorities,Converted 0.7105 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,582,USD_POP: USD per person,,,National authorities,Converted 0.6919 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,644,USD_POP: USD per person,,,National authorities,Converted 0.6588 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,NU: Niue,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,FM: Micronesia (Federated States of),EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,,USD_POP: USD per person,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,NU: Niue,EARN: Gross tourism earnings,USD: US Dollar,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,NU: Niue,EARN: Gross tourism earnings,USD: US Dollar,939,USD: USD,3: thousands,,National authorities,Converted 0.6485 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,NU: Niue,EARN: Gross tourism earnings,USD: US Dollar,1624,USD: USD,3: thousands,,National authorities,Converted 0.7349 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,NU: Niue,EARN: Gross tourism earnings,USD: US Dollar,1982,USD: USD,3: thousands,,National authorities,Converted 0.7029 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,NU: Niue,EARN: Gross tourism earnings,USD: US Dollar,1696,USD: USD,3: thousands,,National authorities,Converted 0.6247 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,NU: Niue,EARN: Gross tourism earnings,USD: US Dollar,2117,USD: USD,3: thousands,,National authorities,Converted 0.7205 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,NU: Niue,EARN: Gross tourism earnings,USD: US Dollar,2791,USD: USD,3: thousands,,National authorities,Converted 0.79 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,NU: Niue,EARN: Gross tourism earnings,USD: US Dollar,2735,USD: USD,3: thousands,,National authorities,Converted 0.8102 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,NU: Niue,EARN: Gross tourism earnings,USD: US Dollar,4415,USD: USD,3: thousands,,National authorities,Converted 0.8201 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,NU: Niue,EARN: Gross tourism earnings,USD: US Dollar,4769,USD: USD,3: thousands,,National authorities,Converted 0.8296 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,NU: Niue,EARN: Gross tourism earnings,USD: US Dollar,4565,USD: USD,3: thousands,,National authorities,Converted 0.6974 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,NU: Niue,EARN: Gross tourism earnings,USD: US Dollar,5040,USD: USD,3: thousands,,National authorities,Converted 0.6961 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,NU: Niue,EARN: Gross tourism earnings,USD: US Dollar,5725,USD: USD,3: thousands,,National authorities,Converted 0.7105 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,NU: Niue,EARN: Gross tourism earnings,USD: US Dollar,6114,USD: USD,3: thousands,,National authorities,Converted 0.6919 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,NU: Niue,EARN: Gross tourism earnings,USD: US Dollar,6577,USD: USD,3: thousands,,National authorities,Converted 0.6588 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,NU: Niue,EARN: Gross tourism earnings,USD: US Dollar,,USD: USD,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1485,FJD_POP: Fiji Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1500,FJD_POP: Fiji Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1446,FJD_POP: Fiji Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1434,FJD_POP: Fiji Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1611,FJD_POP: Fiji Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1732,FJD_POP: Fiji Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1753,FJD_POP: Fiji Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1755,FJD_POP: Fiji Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1715,FJD_POP: Fiji Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1938,FJD_POP: Fiji Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1938,FJD_POP: Fiji Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1894,FJD_POP: Fiji Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1873,FJD_POP: Fiji Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1900,FJD_POP: Fiji Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,2132,FJD_POP: Fiji Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,2144,FJD_POP: Fiji Dollar per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,FJ: Fiji,EARN: Gross tourism earnings,DOM: Domestic currency,813000,FJD: Fiji Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,FJ: Fiji,EARN: Gross tourism earnings,DOM: Domestic currency,823000,FJD: Fiji Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,FJ: Fiji,EARN: Gross tourism earnings,DOM: Domestic currency,784000,FJD: Fiji Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,FJ: Fiji,EARN: Gross tourism earnings,DOM: Domestic currency,888000,FJD: Fiji Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,FJ: Fiji,EARN: Gross tourism earnings,DOM: Domestic currency,975300,FJD: Fiji Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,FJ: Fiji,EARN: Gross tourism earnings,DOM: Domestic currency,1194400,FJD: Fiji Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,FJ: Fiji,EARN: Gross tourism earnings,DOM: Domestic currency,1286500,FJD: Fiji Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,FJ: Fiji,EARN: Gross tourism earnings,DOM: Domestic currency,1300000,FJD: Fiji Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,FJ: Fiji,EARN: Gross tourism earnings,DOM: Domestic currency,1318200,FJD: Fiji Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,FJ: Fiji,EARN: Gross tourism earnings,DOM: Domestic currency,1512200,FJD: Fiji Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,FJ: Fiji,EARN: Gross tourism earnings,DOM: Domestic currency,1683400,FJD: Fiji Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,FJ: Fiji,EARN: Gross tourism earnings,DOM: Domestic currency,1823400,FJD: Fiji Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,FJ: Fiji,EARN: Gross tourism earnings,DOM: Domestic currency,1924300,FJD: Fiji Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,FJ: Fiji,EARN: Gross tourism earnings,DOM: Domestic currency,2010300,FJD: Fiji Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,FJ: Fiji,EARN: Gross tourism earnings,DOM: Domestic currency,2065400,FJD: Fiji Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,FJ: Fiji,EARN: Gross tourism earnings,DOM: Domestic currency,314900,FJD: Fiji Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,4,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,4,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,3,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,3,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,4,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,4,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,4,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,4,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,4,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,4,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,4,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,4,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,4,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,5,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,4,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,2,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,19,PERCENT: percent,,,National authorities,Converted 0.5913 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,18,PERCENT: percent,,,National authorities,Converted 0.5776 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,17,PERCENT: percent,,,National authorities,Converted 0.621 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,19,PERCENT: percent,,,National authorities,Converted 0.6273 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,20,PERCENT: percent,,,National authorities,Converted 0.5107 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,24,PERCENT: percent,,,National authorities,Converted 0.5212 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,22,PERCENT: percent,,,National authorities,Converted 0.5584 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,22,PERCENT: percent,,,National authorities,Converted 0.5587 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,21,PERCENT: percent,,,National authorities,Converted 0.543 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,16,PERCENT: percent,,,National authorities,Converted 0.5298 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,17,PERCENT: percent,,,National authorities,Converted 0.4767 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,18,PERCENT: percent,,,National authorities,Converted 0.4774 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,17,PERCENT: percent,,,National authorities,Converted 0.4838 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,17,PERCENT: percent,,,National authorities,Converted 0.4791 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,17,PERCENT: percent,,,National authorities,Converted 0.4629 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,FJ: Fiji,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,3,PERCENT: percent,,,National authorities,Converted 0.4611 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,WS: Samoa,EARN: Gross tourism earnings,USD: US Dollar,77559,USD: USD,3: thousands,,National authorities,Converted 0.369 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,WS: Samoa,EARN: Gross tourism earnings,USD: US Dollar,84766,USD: USD,3: thousands,,National authorities,Converted 0.3598 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,WS: Samoa,EARN: Gross tourism earnings,USD: US Dollar,99536,USD: USD,3: thousands,,National authorities,Converted 0.3822 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,WS: Samoa,EARN: Gross tourism earnings,USD: US Dollar,106661,USD: USD,3: thousands,,National authorities,Converted 0.3782 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,WS: Samoa,EARN: Gross tourism earnings,USD: US Dollar,117500,USD: USD,3: thousands,,National authorities,Converted 0.3662 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,WS: Samoa,EARN: Gross tourism earnings,USD: US Dollar,131586,USD: USD,3: thousands,,National authorities,Converted 0.4025 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,WS: Samoa,EARN: Gross tourism earnings,USD: US Dollar,130352,USD: USD,3: thousands,,National authorities,Converted 0.4315 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,WS: Samoa,EARN: Gross tourism earnings,USD: US Dollar,141630,USD: USD,3: thousands,,National authorities,Converted 0.4362 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,WS: Samoa,EARN: Gross tourism earnings,USD: US Dollar,138123,USD: USD,3: thousands,,National authorities,Converted 0.4327 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,WS: Samoa,EARN: Gross tourism earnings,USD: US Dollar,146990,USD: USD,3: thousands,,National authorities,Converted 0.4289 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,WS: Samoa,EARN: Gross tourism earnings,USD: US Dollar,142082,USD: USD,3: thousands,,National authorities,Converted 0.3905 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,WS: Samoa,EARN: Gross tourism earnings,USD: US Dollar,149760,USD: USD,3: thousands,,National authorities,Converted 0.3899 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,WS: Samoa,EARN: Gross tourism earnings,USD: US Dollar,173190,USD: USD,3: thousands,,National authorities,Converted 0.3915 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,WS: Samoa,EARN: Gross tourism earnings,USD: US Dollar,201859,USD: USD,3: thousands,,National authorities,Converted 0.3865 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,WS: Samoa,EARN: Gross tourism earnings,USD: US Dollar,206734,USD: USD,3: thousands,,National authorities,Converted 0.3775 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,WS: Samoa,EARN: Gross tourism earnings,USD: US Dollar,23637,USD: USD,3: thousands,,National authorities,Converted 0.3752 WST/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,603,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,891,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,723,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,847,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1083,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1325,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1414,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1433,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1644,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1643,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1196,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1435,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1416,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1479,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,1655,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,DOM: Domestic currency,2626,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,5,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,5,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,4,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,6,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,9,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,7,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,8,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,8,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,10,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,10,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,8,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,9,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,11,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,10,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,11,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,TO: Tonga,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,10,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,6,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,10,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,13,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,12,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,12,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,13,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,12,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,17,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,18,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,19,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,20,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,22,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,20,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,21,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,DOM: Domestic currency,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,6,PERCENT: percent,,,National authorities,Converted 0.6485 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,10,PERCENT: percent,,,National authorities,Converted 0.7349 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,13,PERCENT: percent,,,National authorities,Converted 0.7029 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,12,PERCENT: percent,,,National authorities,Converted 0.6247 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,12,PERCENT: percent,,,National authorities,Converted 0.7205 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,13,PERCENT: percent,,,National authorities,Converted 0.79 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,12,PERCENT: percent,,,National authorities,Converted 0.8102 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,17,PERCENT: percent,,,National authorities,Converted 0.8201 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,18,PERCENT: percent,,,National authorities,Converted 0.8296 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,19,PERCENT: percent,,,National authorities,Converted 0.6974 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,20,PERCENT: percent,,,National authorities,Converted 0.6961 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,22,PERCENT: percent,,,National authorities,Converted 0.7105 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,20,PERCENT: percent,,,National authorities,Converted 0.6919 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,21,PERCENT: percent,,,National authorities,Converted 0.6588 NZD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,NU: Niue,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,,PERCENT: percent,,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,603,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,891,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,723,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,847,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,1083,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,1325,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,1414,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,1433,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,1644,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,1643,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,1196,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,1435,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,1416,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,1479,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,1655,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,MH: Marshall Islands,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,2626,USD_POP: USD per person,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,4,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,4,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,3,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,3,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,4,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,4,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,4,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,4,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,4,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,4,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,4,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,4,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,4,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,5,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,4,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,MH: Marshall Islands,EARN2GDP: Gross tourism earnings as percentage of GDP,USD: US Dollar,2,PERCENT: percent,,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,MH: Marshall Islands,EARN: Gross tourism earnings,USD: US Dollar,5424,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,MH: Marshall Islands,EARN: Gross tourism earnings,USD: US Dollar,5348,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,MH: Marshall Islands,EARN: Gross tourism earnings,USD: US Dollar,5061,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,MH: Marshall Islands,EARN: Gross tourism earnings,USD: US Dollar,5080,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,MH: Marshall Islands,EARN: Gross tourism earnings,USD: US Dollar,5334,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,MH: Marshall Islands,EARN: Gross tourism earnings,USD: US Dollar,6047,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,MH: Marshall Islands,EARN: Gross tourism earnings,USD: US Dollar,6446,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,MH: Marshall Islands,EARN: Gross tourism earnings,USD: US Dollar,6591,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,MH: Marshall Islands,EARN: Gross tourism earnings,USD: US Dollar,7122,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,MH: Marshall Islands,EARN: Gross tourism earnings,USD: US Dollar,7846,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,MH: Marshall Islands,EARN: Gross tourism earnings,USD: US Dollar,7715,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,MH: Marshall Islands,EARN: Gross tourism earnings,USD: US Dollar,7655,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,MH: Marshall Islands,EARN: Gross tourism earnings,USD: US Dollar,8542,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,MH: Marshall Islands,EARN: Gross tourism earnings,USD: US Dollar,9999,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,MH: Marshall Islands,EARN: Gross tourism earnings,USD: US Dollar,10109,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,MH: Marshall Islands,EARN: Gross tourism earnings,USD: US Dollar,5149,USD: USD,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,878,USD_POP: USD per person,,,National authorities,Converted 0.5913 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,867,USD_POP: USD per person,,,National authorities,Converted 0.5776 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,898,USD_POP: USD per person,,,National authorities,Converted 0.621 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,900,USD_POP: USD per person,,,National authorities,Converted 0.6273 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,823,USD_POP: USD per person,,,National authorities,Converted 0.5107 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,903,USD_POP: USD per person,,,National authorities,Converted 0.5212 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,979,USD_POP: USD per person,,,National authorities,Converted 0.5584 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,981,USD_POP: USD per person,,,National authorities,Converted 0.5587 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,932,USD_POP: USD per person,,,National authorities,Converted 0.543 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,1027,USD_POP: USD per person,,,National authorities,Converted 0.5298 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,924,USD_POP: USD per person,,,National authorities,Converted 0.4767 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,904,USD_POP: USD per person,,,National authorities,Converted 0.4774 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,906,USD_POP: USD per person,,,National authorities,Converted 0.4838 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,910,USD_POP: USD per person,,,National authorities,Converted 0.4791 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,987,USD_POP: USD per person,,,National authorities,Converted 0.4629 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,FJ: Fiji,EARN2VIS: Gross tourism earnings per visitor,USD: US Dollar,988,USD_POP: USD per person,,,National authorities,Converted 0.4611 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,NU: Niue,EARN: Gross tourism earnings,DOM: Domestic currency,,NZD: New Zealand Dollar,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,NU: Niue,EARN: Gross tourism earnings,DOM: Domestic currency,1448.6,NZD: New Zealand Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,NU: Niue,EARN: Gross tourism earnings,DOM: Domestic currency,2210,NZD: New Zealand Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,NU: Niue,EARN: Gross tourism earnings,DOM: Domestic currency,2819.9,NZD: New Zealand Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,NU: Niue,EARN: Gross tourism earnings,DOM: Domestic currency,2714.5,NZD: New Zealand Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,NU: Niue,EARN: Gross tourism earnings,DOM: Domestic currency,2937.8,NZD: New Zealand Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,NU: Niue,EARN: Gross tourism earnings,DOM: Domestic currency,3533.3,NZD: New Zealand Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,NU: Niue,EARN: Gross tourism earnings,DOM: Domestic currency,3375.1,NZD: New Zealand Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,NU: Niue,EARN: Gross tourism earnings,DOM: Domestic currency,5383.7,NZD: New Zealand Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,NU: Niue,EARN: Gross tourism earnings,DOM: Domestic currency,5748,NZD: New Zealand Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,NU: Niue,EARN: Gross tourism earnings,DOM: Domestic currency,6545.1,NZD: New Zealand Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,NU: Niue,EARN: Gross tourism earnings,DOM: Domestic currency,7240.7,NZD: New Zealand Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,NU: Niue,EARN: Gross tourism earnings,DOM: Domestic currency,8058.1,NZD: New Zealand Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,NU: Niue,EARN: Gross tourism earnings,DOM: Domestic currency,8836.9,NZD: New Zealand Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,NU: Niue,EARN: Gross tourism earnings,DOM: Domestic currency,9983.8,NZD: New Zealand Dollar,3: thousands,,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,NU: Niue,EARN: Gross tourism earnings,DOM: Domestic currency,,NZD: New Zealand Dollar,3: thousands,NA: Data not available,National authorities,
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2005,FJ: Fiji,EARN: Gross tourism earnings,USD: US Dollar,480727,USD: USD,3: thousands,,National authorities,Converted 0.5913 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2006,FJ: Fiji,EARN: Gross tourism earnings,USD: US Dollar,475365,USD: USD,3: thousands,,National authorities,Converted 0.5776 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2007,FJ: Fiji,EARN: Gross tourism earnings,USD: US Dollar,486864,USD: USD,3: thousands,,National authorities,Converted 0.621 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2008,FJ: Fiji,EARN: Gross tourism earnings,USD: US Dollar,557042,USD: USD,3: thousands,,National authorities,Converted 0.6273 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2009,FJ: Fiji,EARN: Gross tourism earnings,USD: US Dollar,498086,USD: USD,3: thousands,,National authorities,Converted 0.5107 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2010,FJ: Fiji,EARN: Gross tourism earnings,USD: US Dollar,622521,USD: USD,3: thousands,,National authorities,Converted 0.5212 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2011,FJ: Fiji,EARN: Gross tourism earnings,USD: US Dollar,718382,USD: USD,3: thousands,,National authorities,Converted 0.5584 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2012,FJ: Fiji,EARN: Gross tourism earnings,USD: US Dollar,726310,USD: USD,3: thousands,,National authorities,Converted 0.5587 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2013,FJ: Fiji,EARN: Gross tourism earnings,USD: US Dollar,715783,USD: USD,3: thousands,,National authorities,Converted 0.543 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2014,FJ: Fiji,EARN: Gross tourism earnings,USD: US Dollar,801164,USD: USD,3: thousands,,National authorities,Converted 0.5298 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2015,FJ: Fiji,EARN: Gross tourism earnings,USD: US Dollar,802477,USD: USD,3: thousands,,National authorities,Converted 0.4767 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2016,FJ: Fiji,EARN: Gross tourism earnings,USD: US Dollar,870491,USD: USD,3: thousands,,National authorities,Converted 0.4774 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2017,FJ: Fiji,EARN: Gross tourism earnings,USD: US Dollar,930976,USD: USD,3: thousands,,National authorities,Converted 0.4838 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2018,FJ: Fiji,EARN: Gross tourism earnings,USD: US Dollar,963135,USD: USD,3: thousands,,National authorities,Converted 0.4791 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2019,FJ: Fiji,EARN: Gross tourism earnings,USD: US Dollar,956074,USD: USD,3: thousands,,National authorities,Converted 0.4629 FJD/USD
+SPC:DF_TOURISM_EARNINGS(1.0),A: Annual,2020,FJ: Fiji,EARN: Gross tourism earnings,USD: US Dollar,145200,USD: USD,3: thousands,,National authorities,Converted 0.4611 FJD/USD
