@@ -53,6 +53,7 @@ for (p in 1:8)
 colnames(ls) <- c("p", "d", "q", "AIC", "BIC", "AICC")
 
 
+
 ### ARIMA model (5,1,3)
 arima.auto <- auto.arima(fiji_covid, seasonal = T)
 summary(arima.auto)
